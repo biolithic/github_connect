@@ -1,0 +1,7 @@
+name = Github Connect
+description = Enables connecting Backdrop accounts with Github.
+package = Github
+version = 1.x-1.1
+backdrop = 1.x
+type = module
+project = "github_connect"
